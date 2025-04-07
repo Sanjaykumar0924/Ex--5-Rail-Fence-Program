@@ -60,7 +60,7 @@ int main() {
 ```
 
 # OUTPUT
-![Screenshot 2025-03-27 090457](https://github.com/user-attachments/assets/a5b4bb0b-14ce-4c4d-9e9e-f141113d29ca)
+![EX 5 SS](https://github.com/user-attachments/assets/a4e6fb42-86ed-49e9-ae30-8c8bc460ad88)
 
 
 # RESULT
