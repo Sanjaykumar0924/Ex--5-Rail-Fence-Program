@@ -1,5 +1,6 @@
 # Ex--5-Rail-Fence-Program
 
+
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
 
 # AIM:
@@ -19,8 +20,8 @@ STEP-4: Arrange the characters of the keyword in sorted order and the correspond
 STEP-5: Read the characters row wise or column wise in the former order to get the cipher text.
 
 # PROGRAM
+
 ```
-PROGRAM:
 #include <stdio.h>
 #include <string.h>
 int main() {
@@ -60,7 +61,7 @@ int main() {
 ```
 
 # OUTPUT
-![EX 5 SS](https://github.com/user-attachments/assets/a4e6fb42-86ed-49e9-ae30-8c8bc460ad88)
+![Screenshot 2025-04-07 084838](https://github.com/user-attachments/assets/078d40d6-c99f-42f6-b961-35cd31b28b12)
 
 
 # RESULT
